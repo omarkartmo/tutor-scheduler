@@ -6,7 +6,7 @@ $groupworld_server = 'www.groupworld.net';
 
 # If using the hosted Groupworld, change this to your Groupworld id.
 # If using the enterprise Groupworld, leave it blank
-$groupworld_id = '';
+$groupworld_id = 3047;
 
 # Number of minutes early that users can log into sessions
 $early_login_mins = 5;
